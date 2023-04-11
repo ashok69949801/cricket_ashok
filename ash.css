@@ -1,0 +1,53 @@
+h1{
+    color: #808000;
+}
+body{
+    background-color:#C0C0C0;
+}
+
+.ashok{
+    text-align: center;
+    
+    color: red;
+    
+    font-family: "Lucida Console", Courier, monospace;
+    
+}
+.new{
+    
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+label{
+    color:gray;
+  
+}
+input{
+    color: black;
+}
+.king{
+    color: darkslategray;
+    font-style: oblique;
+}
+.hello{
+    color: darkslategray;
+    font-style: oblique;
+}
+hr{
+    border-width: medium;
+    border-radius: 60%;
+    bor
+}
+.hi{
+    text-align: center;
+    color:black;
+    font-style:oblique;
+}
+.bcci{
+    text-align:right;
+    color: blue;
+}
+form{
+    background-color: white;
+}
+  
